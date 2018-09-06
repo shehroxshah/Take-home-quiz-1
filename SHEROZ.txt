@@ -1,0 +1,55 @@
+NAME; SHEHROZ SHAH
+CLASS: BSCS 6
+ROLL NO: 33
+
+
+Q1;How to launch swi-prolog on command line?  
+   swipl --help
+   swipl --version
+   swipl --arch
+   swipl --dump-runtime-variables
+   REFRENCE: SWI-PROLOG COMMAND LINE..
+ 
+Q2;What is the extension of a prolog Knowledge Base?  
+   (.pl) is the extension of a prolog knowledge base.
+   REF:Google.com
+ 
+Q3;How to load a knowledge base in prolog?  
+  open prolog click on consult then find the directory of knowledge base.
+
+Q4;How to exit a prolog session?  
+   ctrl d & halt is used to exit prolog session.
+   REF:Google.com
+ 
+Q5;How to get help on a topic from within prolog?  
+   prolog enviromental tutorial...
+   refrence; google.com
+ 
+Q6;What is an atom?
+   An atom is a general-purpose name with no inherent meaning. It is composed of a sequence of characters that is parsed by the Prolog reader as a single unit.
+   REF:Google.com
+ 
+Q7;What is a term?  
+   Term is a variable it is unified with a new term whose arguments are all different variables
+   REF:Google.com
+ 
+Q8;What is functor?  
+   In Prolog, the word functor is used to refer to the atom at the start of a structure, along with its arity, that is, the number of arguments it takes.
+   REF:Google.com
+ 
+Q9;What are complex terms?  
+   The number of arguments that a complex term has is called its arity.
+   REf:Google.com
+ 
+Q10;What is predicate?  
+   A predicate denotes a property or relationship between objects. A clause has a head and a body (Rule) or just a head (Fact).
+   ref:Google.com
+ 
+Q11;What is arity of predicate?  
+   The arity of a relation (or predicate) is the dimension of the domain in the corresponding Cartesian product. (A function of arity n thus has arity n+1 considered as a relation.) The term springs from words like unary, binary, ternary, etc.
+   REF:Google.com
+ 
+Q12;What is unification?  
+   The way in which Prolog matches two terms is called unification.
+   REFRNCE; google.com
+ 
